@@ -1,0 +1,14 @@
+# Ignore Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Ignore macOS metadata files
+.DS_Store
+
+# Ignore virtual environments (if you use one)
+venv/
+env/
+
+# Ignore build outputs and logs
+*.log
+*.egg-info/
